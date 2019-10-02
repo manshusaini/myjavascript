@@ -1,0 +1,5 @@
+var x prompt("typw any interger")
+
+alert("you typed",)
+
+alert("did you get your ansewer")
